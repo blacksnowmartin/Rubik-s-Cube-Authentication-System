@@ -9,3 +9,9 @@ SCANNING ONE FACE AT A TIME
 OR
 
 SCANNER ON A ROTATING ARM
+
+29/12/2023
+
+The physical model to involve the Rubik's cube to be inserted as the compact cassette was done.
+
+The lid to have the front to have the yellow face and the lid to have the face colours on how they should be facing when being inserted.
