@@ -20,3 +20,7 @@ The lid to have the front to have the yellow face and the lid to have the face c
 06/01/2023
 
 What about we used cameras only to scan instead of the color sensors?
+
+07/01/2023
+
+The cameras need to be intelligent to be able to scan images and the colors in them or the processors which will handle the inputs of cameras to be trained.
