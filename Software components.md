@@ -11,3 +11,6 @@ Authentication Logic:
 
 Implement authentication logic on the microcontroller.
 Compare the sensed colors to the stored passcode.
+
+
+Introduce the intelligent software to scan photos taken by the cameras. ( Use of cameras instead of the color sensors )
