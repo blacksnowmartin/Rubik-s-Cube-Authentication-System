@@ -1,26 +1,11 @@
-HOW THE PHYSICAL MODEL ARCHITECTURE SHOULD BE LIKE
+29/12/2023:
 
-SCANNER AT EVERY FACE
+The physical model's architecture involving the Rubik's cube, inserted like a compact cassette, was designed. The lid's front displays the yellow face, and the face colors align as they should during insertion.
 
-OR 
+06/01/2023:
 
-SCANNING ONE FACE AT A TIME
+Consider using cameras exclusively for scanning instead of color sensors.
 
-OR
+07/01/2023:
 
-SCANNER ON A ROTATING ARM
-
-29/12/2023
-
-The physical model to involve the Rubik's cube to be inserted as the compact cassette was done.
-
-The lid to have the front to have the yellow face and the lid to have the face colours on how they should be facing when being inserted.
-
-
-06/01/2023
-
-What about we used cameras only to scan instead of the color sensors?
-
-07/01/2023
-
-The cameras need to be intelligent to be able to scan images and the colors in them or the processors which will handle the inputs of cameras to be trained.
+For camera-based scanning, the cameras must possess intelligence to analyze images and their colors, or the processors handling camera inputs need training.
