@@ -9,3 +9,7 @@ Consider using cameras exclusively for scanning instead of color sensors.
 07/01/2023:
 
 For camera-based scanning, the cameras must possess intelligence to analyze images and their colors, or the processors handling camera inputs need training.
+
+27/02/2024
+
+what if we could be scanning a single floor of the cube.
